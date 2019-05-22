@@ -3,7 +3,8 @@
 ## Sinusoid Model
 
 1. [libsbsms](http://sbsms.sourceforge.net/)  
-
+2. [libsms](https://github.com/libsms/libsms)
+3. [libllsm2](https://github.com/Sleepwalking/libllsm2)
 
 ## Phase Vocoder
 
