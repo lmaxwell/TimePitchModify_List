@@ -5,7 +5,7 @@
 1. [libsbsms](http://sbsms.sourceforge.net/)  
 
 
-## Phase Vocader
+## Phase Vocoder
 
 1. [rubberband](https://github.com/breakfastquay/rubberband)
 
